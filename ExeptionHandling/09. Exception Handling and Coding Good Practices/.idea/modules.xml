@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demos/01. Exceptions/01. Exceptions.iml" filepath="$PROJECT_DIR$/Demos/01. Exceptions/01. Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/02. Handle Exceptions/02. Handle Exceptions.iml" filepath="$PROJECT_DIR$/Demos/02. Handle Exceptions/02. Handle Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/03. Throw Exceptions/03. Throw Exceptions.iml" filepath="$PROJECT_DIR$/Demos/03. Throw Exceptions/03. Throw Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/04. Input - Output/04. Input - Output.iml" filepath="$PROJECT_DIR$/Demos/04. Input - Output/04. Input - Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/09. Exception Handling and Coding Good Practices.iml" filepath="$PROJECT_DIR$/.idea/09. Exception Handling and Coding Good Practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/In-class activity/In-class activity.iml" filepath="$PROJECT_DIR$/In-class activity/In-class activity.iml" />
+    </modules>
+  </component>
+</project>

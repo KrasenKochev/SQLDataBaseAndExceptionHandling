@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/01. Exceptions/01. Exceptions.iml" filepath="$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/01. Exceptions/01. Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/02. Handle Exceptions/02. Handle Exceptions.iml" filepath="$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/02. Handle Exceptions/02. Handle Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/03. Throw Exceptions/03. Throw Exceptions.iml" filepath="$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/03. Throw Exceptions/03. Throw Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/04. Input - Output/04. Input - Output.iml" filepath="$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/Demos/04. Input - Output/04. Input - Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExeptionHandling.iml" filepath="$PROJECT_DIR$/.idea/ExeptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/In-class activity/In-class activity.iml" filepath="$PROJECT_DIR$/09. Exception Handling and Coding Good Practices/In-class activity/In-class activity.iml" />
+    </modules>
+  </component>
+</project>
